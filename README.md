@@ -1,4 +1,2 @@
 Meu primeiro sistema no git 
-
-
-alterando o readme
+Acabei de alterar de outra maquina
